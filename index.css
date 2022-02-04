@@ -1,0 +1,23 @@
+.headder{
+    border-color: purple;
+    border-style: solid;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+.headder .h1{
+    align-items: center;
+}
+h2{
+    text-align: center;
+}
+h1{
+    align-items: center;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 250%;
+}
+.logo{
+    margin-left: -20px;
+    margin-top: -20px;
+}
