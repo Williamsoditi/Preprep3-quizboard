@@ -21,3 +21,14 @@ h1{
     margin-left: -20px;
     margin-top: -20px;
 }
+button{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px;
+    float: left;
+}
+button:hover{
+    color: red;
+}
