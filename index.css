@@ -7,6 +7,7 @@
 }
 .headder .h1{
     align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h2{
     text-align: center;
@@ -31,4 +32,9 @@ h1{
 }
 button:hover{
     color: red;
+}
+body{
+    background-color: palegoldenrod;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
