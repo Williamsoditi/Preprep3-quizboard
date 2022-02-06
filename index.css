@@ -38,3 +38,11 @@ body{
     margin-left: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+footer{
+    float: right;
+    font-weight: bolder;
+    font-style: italic;
+    color: green;
+    padding: 50px;
+}
