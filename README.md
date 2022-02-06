@@ -18,7 +18,7 @@
 
 ## Design
 <p>The following is a link to the project design</p>
-<a>https://miro.com/app/board/uXjVOPxp74E=/?moveToWidget=3458764518192294246&cot=14</a>
+ https://miro.com/app/board/uXjVOPxp74E=/?moveToWidget=3458764518192294246&cot=14
 
 
 ### Requirements
