@@ -5,14 +5,10 @@ function check() {
    var q3=document.quiz.question3.value;  
    var outcome= document.getElementById("outcome");
    var quiz=document.getElementById("quiz")
-
-   //Adding scores//
-   if (q1==="HTML") {score++};
-   if (q2==="JS") {score++};
-   if (q3==="No") {score++};  
+   if (q1=="HTML") {score++};
+   if (q2=="JS") {score++};
+   if (q3=="No") {score++};  
    quiz.style.display= "none";
-  
-   //Grading//
    if (score=3) {
       outcome.textContent = "You have excellently passed!";
    } else if (score=2<3) {
